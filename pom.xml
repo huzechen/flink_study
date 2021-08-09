@@ -14,7 +14,7 @@
         <scala.version>2.11</scala.version>
         <flink.jackson.version>2.9.3</flink.jackson.version>
         <mtflink.common.version>1.6.2_0.0.7</mtflink.common.version>
-        <elasticsearch.version>5.6.3</elasticsearch.version>
+        <elasticsearch.version>6.8.17</elasticsearch.version>
     </properties>
 <dependencies>
     <dependency>
